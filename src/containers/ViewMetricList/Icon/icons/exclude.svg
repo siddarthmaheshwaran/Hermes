@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>exclude</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="exclude" fill="#63666A" fill-rule="nonzero">
+            <path d="M14,26 C7.372583,26 2,20.627417 2,14 C2,7.372583 7.372583,2 14,2 C20.627417,2 26,7.372583 26,14 C26,20.627417 20.627417,26 14,26 Z M14,6 C12.5163828,6 11.1270918,6.40385879 9.93606531,7.10763818 L20.7535049,17.9250778 L20.8923618,18.0639347 C21.5961412,16.8729082 22,15.4836172 22,14 C22,9.581722 18.418278,6 14,6 Z M13.9360653,22.0639347 C15.4196825,22.0639347 16.8089735,21.6600759 18,20.9562965 L7.18256036,10.1388569 L7.04370349,10 C6.33992409,11.1910265 5.93606531,12.5803175 5.93606531,14.0639347 C5.93606531,18.4822127 9.51778731,22.0639347 13.9360653,22.0639347 Z"></path>
+        </g>
+    </g>
+</svg>

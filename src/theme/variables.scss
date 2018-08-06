@@ -1,0 +1,189 @@
+$tivo-color-white: #ffffff;
+$tivo-color-off-white: #f1f2f3;
+$tivo-color-off-black: #010203;
+$tivo-color-black: #000000;
+
+$tivo-color-grey-light: #c8c9c7;
+$tivo-color-grey: #979797;
+$tivo-color-grey-dark: #63666a;
+
+// aliases...
+$tivo-color-gray-light: $tivo-color-grey-light;
+$tivo-color-gray: $tivo-color-grey;
+$tivo-color-gray-dark: $tivo-color-grey-dark;
+
+// from grif's chart colors, rainbox
+$tivo-color-red: #CC3354;
+$tivo-color-red-light: #EF9FA5;
+$tivo-color-red-dark: #842839;
+$tivo-color-orange: #F38A00;
+$tivo-color-orange-light: #FFC48C;
+$tivo-color-orange-dark: #9C5A11;
+$tivo-color-yellow: #FFC842;
+$tivo-color-yellow-light: #FFE3A4;
+$tivo-color-yellow-dark: #A38030;
+$tivo-color-green: #B6BD00;
+$tivo-color-green-light: #E0DD92;
+$tivo-color-green-dark: #767A14;
+$tivo-color-blue: #00A7E1;
+$tivo-color-blue-light: #A5D2F0;
+$tivo-color-blue-dark: #1E6C90;
+$tivo-color-indigo: #005F9B;
+$tivo-color-indigo-light: #95ABCD;
+$tivo-color-indigo-dark: #163F65;
+$tivo-color-purple: #6F489E;
+$tivo-color-purple-light: #B8A0CE;
+$tivo-color-purple-dark: #4A3267;
+
+// legacy aliases...
+$tivo-color-light-blue: $tivo-color-blue;
+$tivo-color-dark-blue: $tivo-color-indigo;
+$tivo-color-light-green: $tivo-color-green;
+$tivo-color-light-grey: $tivo-color-grey-light;
+$tivo-color-dark-grey: $tivo-color-grey-dark;
+
+
+$tivo-color-priority-A: #66caed;
+$tivo-color-priority-B: #89d6f1;
+$tivo-color-priority-C: #a2ddf4;
+$tivo-color-priority-D: #bae6f7;
+$tivo-color-priority-E: #d2eefa;
+
+$tivo-color-index-0: $tivo-color-indigo;
+$tivo-color-index-1: #0083be;
+$tivo-color-index-2: $tivo-color-blue;
+$tivo-color-index-3: #43b3d9;
+$tivo-color-index-4: #86bdcf;
+$tivo-color-index-5: $tivo-color-light-grey;
+$tivo-color-index-6: #dac99c;
+$tivo-color-index-7: #ecc86f;
+$tivo-color-index-8: $tivo-color-yellow;
+$tivo-color-index-9: #faaa22;
+$tivo-color-index-10: $tivo-color-orange;
+
+$tivo-color-warning: $tivo-color-yellow;
+$tivo-color-danger: #d30028;
+$tivo-color-good: #59a034;
+$tivo-color-info: $tivo-color-dark-blue;
+$tivo-color-primary: $tivo-color-light-blue;
+
+
+
+/*
+* [new] tivo color palette...
+*/
+
+$clr-tivo-blue: #00a7e1;
+$clr-tivo-white: #ffffff;
+$clr-tivo-dark-grey: #63666a;
+$clr-tivo-orange: #f38a00;
+$clr-tivo-light-green: #b6bd00;
+$clr-tivo-black: #000000;
+$clr-tivo-light-grey: #c8c9c7;
+$clr-tivo-yellow: #ffc842;
+$clr-tivo-dark-blue: #005f9b;
+
+/*
+* [old] rovi color palette...
+*/
+
+$clr-alizarin: #dc1a34;
+$clr-black-1: #010101;
+$clr-black: #000000;
+$clr-blizzard-blue: #c0daf3;
+$clr-buttercup: #f5a623;
+$clr-chestnut-rose: #cc6956;
+$clr-cod-gray: #1e1e1e;
+$clr-crimson: #c81419;
+$clr-dove-gray: #646464;
+$clr-gallery: #f0f0f0;
+$clr-light-apricot: #fdd8c2;
+$clr-lochmara: #008cd6;
+$clr-masala: #4a4a4a;
+$clr-midnight-blue: #00366e;
+$clr-mine-shaft: #333333;
+$clr-science-blue: #0069bc;
+$clr-seagull: #75b8ea;
+$clr-shadow: #459788;
+$clr-silver-chalice: #9b9b9b;
+$clr-silver: #c8c8c8;
+$clr-stiletto: #a50336; // roviRuby
+$clr-tacao: #eea182;
+$clr-tawny-port: #71173f; // grape-purple
+$clr-white: #ffffff;
+$clr-wild-sand: #f4f4f4;
+
+/*
+* tivo font/text styles...
+*/
+
+$tivo-font-body: 400 14px/1.2em "Omnes";
+
+$tivo-font-breadcrumbs: 600 14px/1.2em "Omnes";
+$tivo-font-headline: 600 36px/2em "Omnes";
+$tivo-font-section: 300 30px/1.2em "Omnes";
+$tivo-font-nav-menu: 500 16px/50px "Omnes";
+$tivo-font-form-value: 600 16px "Omnes";
+$tivo-font-form-label: 400 10px/1.6em "Omnes";
+$tivo-font-button: 600 16px/1.2em "Omnes";
+
+$tivo-font-table-head: 600 14px/1.2em "Omnes";
+$tivo-font-status: 600 16px/1.2em "Omnes";
+
+$tivo-font-tab-label: 300 16px/1.4em "Omnes";
+$tivo-font-tab-active: 600 16px/1.4em "Omnes";
+
+$tivo-font-segment-button-on: 600 14px/1.2em "Omnes";
+$tivo-font-segment-button-off: 400 14px/1.2em "Omnes";
+
+$tivo-font-logo: 200 20px/1.5em "Omnes";
+
+/*
+  Material Elevation Shadows...
+  https://material.io/guidelines/material-design/elevation-shadows.html#elevation-shadows-shadows
+  https://material.io/guidelines/resources/shadows.html#shadows-sketch
+*/
+
+$clr-shadow-umbra: rgba( $clr-black-1, 0.14 );
+$clr-shadow-penumbra: rgba( $clr-black-1, 0.12 );
+$clr-shadow-ambient: rgba( $clr-black-1, 0.20 );
+
+$tivo-shadow-1dp:  0px  0px  2px 0px $clr-shadow-umbra, 0px 2px  2px 0px $clr-shadow-penumbra, 0px  1px  3px 0px $clr-shadow-ambient;
+$tivo-shadow-2dp:  0px  0px  4px 0px $clr-shadow-umbra, 0px 3px  4px 0px $clr-shadow-penumbra, 0px  1px  5px 0px $clr-shadow-ambient;
+$tivo-shadow-3dp:  0px  3px  3px 0px $clr-shadow-umbra, 0px 3px  4px 0px $clr-shadow-penumbra, 0px  1px  8px 0px $clr-shadow-ambient;
+$tivo-shadow-4dp:  0px  2px  4px 0px $clr-shadow-umbra, 0px 4px  5px 0px $clr-shadow-penumbra, 0px  1px 10px 0px $clr-shadow-ambient;
+$tivo-shadow-6dp:  0px  6px 10px 0px $clr-shadow-umbra, 0px 1px 18px 0px $clr-shadow-penumbra, 0px  3px  5px 0px $clr-shadow-ambient;
+$tivo-shadow-8dp:  0px  8px 10px 1px $clr-shadow-umbra, 0px 3px 14px 3px $clr-shadow-penumbra, 0px  4px 15px 0px $clr-shadow-ambient;
+$tivo-shadow-9dp:  0px  9px 12px 1px $clr-shadow-umbra, 0px 3px 16px 2px $clr-shadow-penumbra, 0px  5px  6px 0px $clr-shadow-ambient;
+$tivo-shadow-12dp: 0px 12px 17px 2px $clr-shadow-umbra, 0px 5px 22px 4px $clr-shadow-penumbra, 0px  7px  8px 0px $clr-shadow-ambient;
+$tivo-shadow-16dp: 0px 16px 24px 2px $clr-shadow-umbra, 0px 6px 30px 5px $clr-shadow-penumbra, 0px  8px 10px 0px $clr-shadow-ambient;
+$tivo-shadow-24dp: 0px 24px 38px 3px $clr-shadow-umbra, 0px 9px 46px 8px $clr-shadow-penumbra, 0px 11px 15px 0px $clr-shadow-ambient;
+
+/*
+* react-toolbox overrides...
+*/
+
+$color-divider: $clr-silver;
+// $color-background: $color-white !default;
+// $color-text: $palette-grey-900 !default;
+// $color-text-secondary: $palette-grey-600 !default;
+
+$color-primary: $clr-tivo-blue !default;
+$color-primary-dark: $clr-tivo-dark-blue !default;
+$color-accent: $clr-tivo-light-green !default;
+// $color-accent-dark: $palette-pink-700 !default;
+// $color-primary-contrast: $color-dark-contrast !default;
+// $color-accent-contrast: $color-dark-contrast !default;
+
+// -- Fonts
+$preferred-font: "Omnes", "Arial", sans-serif !default;
+// $font-size: 1.6 * $unit !default;
+// $font-size-tiny: 1.2 * $unit !default;
+// $font-size-small: 1.4 * $unit !default;
+// $font-size-normal: $font-size !default;
+// $font-size-big: 1.8 * $unit !default;
+$font-weight-thin: 200 !default;
+$font-weight-normal: 400 !default;
+$font-weight-semi-bold: 500 !default;
+$font-weight-bold: 700 !default;
+$overlay-color: #1e1e1e;

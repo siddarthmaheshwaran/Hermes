@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>unchecked</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="unchecked" fill="#63666A">
+            <path d="M23,23 L23,5 L5,5 L5,23 L23,23 L23,23 Z M23.3333333,26 L4.66666667,26 C3.2,26 2,24.8 2,23.3333333 L2,4.66666667 C2,3.2 3.2,2 4.66666667,2 L23.3333333,2 C24.8,2 26,3.2 26,4.66666667 L26,23.3333333 C26,24.8 24.8,26 23.3333333,26 L23.3333333,26 L23.3333333,26 Z"></path>
+        </g>
+    </g>
+</svg>

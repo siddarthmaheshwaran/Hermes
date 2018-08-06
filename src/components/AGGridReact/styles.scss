@@ -1,0 +1,131 @@
+@import "../Icon/mixin.scss";
+
+.ag-root {
+  color: $tivo-color-dark-grey;
+
+  .ag-header {
+    background: $tivo-color-white;
+    cursor: pointer;
+
+    .ag-header-cell-sorted-asc .ag-header-cell-text:before {
+      @include tivo-icon( 'sort-asc', 8px );
+      color: $clr-tivo-blue; // $clr-shadow75;
+      margin-right: 5px;
+    }
+    .ag-header-cell-sorted-desc .ag-header-cell-text:before {
+      @include tivo-icon( 'sort-desc', 8px );
+      color: $clr-tivo-blue; // $clr-shadow75;
+      margin-right: 5px;
+    }
+    .ag-header-cell,
+    .ag-header-group-cell {
+      font: 600 14px omnes;
+      color: $tivo-color-light-grey;
+      // text-transform: uppercase;
+      background: $tivo-color-white;
+      border-bottom: 1px solid #f1f1f1;
+      border-right: none;
+      text-align: left;
+    }
+    .ag-header-group-cell {
+      background: $clr-masala;
+      border-color: $clr-cod-gray;
+    }
+    .ag-header-group-cell-no-group {
+      background: $clr-cod-gray;
+    }
+    .ag-header-cell-menu-button {
+      padding: 9px 1px 9px 10px;
+      color: $clr-silver-chalice;
+    }
+
+    .ag-header-cell-label,
+    .ag-header-group-cell-label {
+      // text-overflow: initial;
+      // word-wrap: break-word;
+      // overflow: initial;
+      // white-space: normal;
+      padding: 9px 1px 9px 10px;
+
+      // .ag-sort-ascending-icon,
+      // .ag-sort-descending-icon,
+      .ag-sort-order {
+        display: none;
+      }
+
+      svg {
+        display: none;
+      }
+    }
+    // visible/active column filter indication icon
+    .ag-header-cell-filtered .ag-header-cell-menu-button {
+      opacity: 1 !important;
+      color: $clr-tivo-dark-blue; // $clr-shadow75;
+    }
+
+    .ag-icon-desc,
+    .ag-icon-asc {
+      display: none !important;
+    }
+  }
+
+  .ag-header-label {
+
+  }
+
+  .ag-body {
+
+  }
+
+  .ag-row,
+  .ag-row-even,
+  .ag-row-odd {
+    background: $tivo-color-white;
+  }
+  // .ag-row-odd {
+  //   background: #f7f7f7;
+  // }
+  .ag-row-hover,
+  .ag-row:hover,
+  .ag-row-even:hover,
+  .ag-row-odd:hover {
+    background: mix( #FFF, $tivo-color-light-blue, 90% );
+  }
+  .ag-cell {
+    padding: 9px 10px 9px 10px;
+    border-bottom: 1px solid #f1f1f1;
+    border-right: none;
+    text-align: right;
+    outline: none;
+    font: 400 14px omnes;
+  }
+
+}
+// column drag and drop proxy element...
+.ag-dnd-ghost {
+  // background: $clr-masala !important;
+  color: $tivo-color-light-grey;
+  background: $tivo-color-white;
+  border: 0 solid $tivo-color-white !important;
+  box-shadow: 0 0 4px 0 rgba(0,0,0,.5);
+  cursor: none;
+  text-align: left !important;
+  line-height: 32px !important;
+  padding: 0 !important;
+
+  .ag-dnd-ghost-label {
+    // text-transform: uppercase;
+    font: 600 14px omnes;
+    color: $tivo-color-light-grey;
+    padding: 0 20px 0 10px;
+  }
+  .ag-dnd-ghost-icon {
+    color: $tivo-color-light-grey;
+    font-size: 16px;
+    float: right;
+    padding-right: 4px;
+  }
+}
+.ag-header-cell-moving {
+  opacity: .25;
+}

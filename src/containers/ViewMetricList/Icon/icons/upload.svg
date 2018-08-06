@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="upload" fill-rule="nonzero" fill="#63666A">
+            <path d="M10.0011191,2 L10.0011191,6 L7.34671801,6 C6.595342,6 6.00055957,6.59617131 6.00055957,7.34597015 L6.00055957,20.6540298 C6.00055957,21.4053008 6.59681427,22 7.34671801,22 L10.0011191,22 L10.0011191,26 L6.32672926,26 C3.93714267,26 2,23.9950534 2,21.4857836 L2,6.51421642 C2,4.02108354 3.92167594,2 6.32672926,2 L10.0011191,2 Z M17.0020984,11 L17.0020984,6 L26,14.0008545 L17.0020984,22.001709 L17.0020984,17 L8.00083935,17 L8.00083935,11 L17.0020984,11 Z" transform="translate(14.000000, 14.000000) rotate(-90.000000) translate(-14.000000, -14.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit" fill="#63666A" fill-rule="nonzero">
+            <path d="M14.9782198,6 L5.76184702,6 C3.67078882,6 2,7.68423628 2,9.76184702 L2,22.238153 C2,24.3292112 3.68423628,26 5.76184702,26 L18.238153,26 C20.3292112,26 22,24.3157637 22,22.238153 L22,12.905789 L19,15.8978985 L19,21.8222761 C19,22.4783501 18.4796382,23 17.8222761,23 L6.17772388,23 C5.52164989,23 5,22.4796382 5,21.8222761 L5,10.1777239 C5,9.52164989 5.52036184,9 6.17772388,9 L11.970556,9 L14.9782198,6 Z M23.000885,8 L26,5 L25.4424779,2.74336283 L23.000885,2 L20,5 L23.000885,8 L23.000885,8 Z M12.654731,18.5680393 L21,10.2362311 L17.7041035,7 L9.56217784,15.1313337 L8,20 L12.654731,18.5680393 Z"></path>
+        </g>
+    </g>
+</svg>

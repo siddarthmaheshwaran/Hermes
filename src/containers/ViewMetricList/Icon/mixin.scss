@@ -1,0 +1,27 @@
+/**
+ *
+ *  A sass mixin for adding svg icons via style declarations.
+ *  Adds background image masks to before/after psuedo elements.
+ *
+ *  @example...
+ *
+ *    // mixin must be imported to the file
+ *    @import "~components/Icon/mixin.scss";
+ *    // psuedo element supports content
+ *    :before {
+ *      // declare icon name and block size
+ *      @include tivo-icon( 'sort-desc', 8px );
+ *      // control icon color
+ *      color: $clr-tivo-blue;
+ *    }
+ *
+ */
+
+@mixin tivo-icon( $icon, $size:16px ) {
+  content: '';
+  display: inline-block;
+  height: $size;
+  width: $size;
+  mask: url('./icons.svg##{ $icon }') no-repeat 0px 0px;
+  background-color: currentColor;
+}

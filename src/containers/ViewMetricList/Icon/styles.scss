@@ -1,0 +1,13 @@
+.tivo-icon {
+	line-height: 1em;
+	display: inline-block;
+  color: inherit; // currentColor
+  #{--accent-color}: $clr-tivo-blue;
+  #{--alert-color}: $clr-tivo-yellow;
+
+  svg {
+  	width: 100%;
+  	height: 100%;
+  }
+
+}

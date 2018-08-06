@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trash" fill="#63666A">
+            <path d="M23.0909091,24.4239539 C23.0909091,25.2943801 22.4003622,26 21.5720102,26 L6.42798984,26 C5.58912512,26 4.90909091,25.2785314 4.90909091,24.4239539 L4,7 L24,7 L23.0909091,24.4239539 Z M2,5 C2,4.44771525 2.44746922,4 3.00069463,4 L24.9993054,4 C25.5519738,4 26,4.44386482 26,5 C26,5.55228475 25.5525308,6 24.9993054,6 L3.00069463,6 C2.44802625,6 2,5.55613518 2,5 Z M18,4 L10,4 C10,2.8954305 10.8867064,2 11.9981014,2 L16.0018986,2 C17.1054196,2 18,2.88772964 18,4 Z M9,10 L9,23 L10,23 L10,10 L9,10 Z M12,10 L12,23 L13,23 L13,10 L12,10 Z M15,10 L15,23 L16,23 L16,10 L15,10 Z M18,10 L18,23 L19,23 L19,10 L18,10 Z"></path>
+        </g>
+    </g>
+</svg>

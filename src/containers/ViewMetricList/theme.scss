@@ -1,0 +1,50 @@
+@import "./Icon/mixin.scss";
+
+// TODO: Move these themes to the actual components for consistency
+
+// Dialog Body
+.body {
+  padding: 0;
+}
+
+.autocomplete {
+  input {
+    cursor: pointer;
+    color: $clr-tivo-white;
+    font: 600 16px omnes;
+  }
+
+  label {
+    color: $clr-tivo-white;
+  }
+
+  .input:after {
+    @include tivo-icon( 'dropdown-down', 24px );
+    color: $tivo-color-off-white;
+    position: absolute;
+    top: 29px;
+    right: -2px;
+    border: 0;
+  }
+}
+
+.button {
+  &.raised:not([disabled]) {
+    background-color: $clr-tivo-dark-grey;
+    color: $clr-tivo-white;
+  }
+
+  &.primary.raised:not([disabled]) {
+    background-color: $clr-tivo-orange;
+  }
+
+  &.raised[disabled] {
+    background-color: hsla(0, 1%, 58%, 0.21176);
+    color: hsla(0, 0%, 40%, 0.47059);
+  }
+
+  &.primary.raised[disabled] {
+    background-color: hsla(31, 81%, 55%, 0.21);
+    color: hsla(0, 0%, 40%, 0.47059);
+  }
+}

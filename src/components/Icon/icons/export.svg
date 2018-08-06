@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>export</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="export" fill="#63666A" fill-rule="nonzero">
+            <path d="M15,3 L15,6 L7.34597015,6 C6.59469924,6 6,6.59617131 6,7.34597015 L6,20.6540298 C6,21.4053008 6.59617131,22 7.34597015,22 L20.6540298,22 C21.4053008,22 22,21.4038287 22,20.6540298 L22,16.181718 L25,13.525468 L25,20.8619683 C25,23.1473401 23.1621323,25 20.8619683,25 L7.13803172,25 C4.85265991,25 3,23.1621323 3,20.8619683 L3,7.13803172 C3,4.85265991 4.83786771,3 7.13803172,3 L15,3 Z M17,7.33380018 L17,2 L26,9.96875 L17,17.9375 L17,12.6424274 C11.2934495,12.8804744 8.42231929,15.5311113 7.26254752,19 C7.09037942,18.3706088 7,17.7191783 7,17.0520833 C7,11.8912419 10.4092281,7.66791885 17,7.33380018 Z"></path>
+        </g>
+    </g>
+</svg>
